@@ -11,7 +11,7 @@
 
 
 .img-benefits {
-    background-image: url(/imagens/beneficios.jpg);
+    background-image: url(../../imagens/beneficios.jpg);
     background-size: cover;
     width: 60%; 
     height: 30vw; 

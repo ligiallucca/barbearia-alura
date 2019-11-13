@@ -28,7 +28,7 @@ header {
 
 footer{
     text-align: center;
-    background-image: url(/imagens/bg.jpg);
+    background-image: url(../imagens/bg.jpg);
     padding: 2.5vw 0;
 }
 
