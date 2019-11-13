@@ -1,0 +1,59 @@
+form {
+    margin: 5vw 0;
+}
+
+form fieldset {
+    border: none;
+}
+
+form label, form legend, p {
+    display: block;
+    font-size: 1.5vw;
+    margin: 0 0 .5vw;
+}
+
+.pattern-input {
+    display: block;
+    margin: 0 0 1vw;
+    padding: .75vw 1.25vw;
+    width: 50%;
+}
+
+.checkbox {
+    margin: 1vw 0;
+}
+
+.send-form-btn {
+    width: 40%;
+    padding: 0.75vw 0;
+    margin-top: 1vw;
+    background-color: #C78C19;
+    border: none;
+    border-radius: 0.4vw;
+    font-size: 1vw;
+    font-weight: bold;
+    color: #FFFB;
+    transition: 1s;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.send-form-btn:hover {
+    background-color: #b86801;
+    transform: scale(1.2);
+}
+
+table {
+    margin: 2vw 0 3vw;
+}
+
+thead {
+    background-color: #444c;
+    color: #FFFB;
+    font-weight: bold;
+}
+
+td, th {
+    border: .1vw solid #222A;
+    padding: 0.75vw 1.63vw;
+}
