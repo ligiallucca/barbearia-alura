@@ -1,4 +1,6 @@
 .benefits{
+    margin-top: 0;
+    padding: 0;
     background-color: #888;
 }
 
@@ -20,10 +22,16 @@
     width: 40%;
     display: inline-block;
     vertical-align: top;
+    text-decoration: none;
 }
 
 .itens {
     line-height: 1.5;
+    
+}
+
+.iten::before{
+    content: "★"
 }
 
 .itens:first-child {
