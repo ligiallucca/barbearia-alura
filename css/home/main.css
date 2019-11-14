@@ -5,10 +5,21 @@
     height: 40vw;
 }
 
-.description{
+.description {
     background-color: #FEF;
 }
 
-.map-section{
+.description-img {
+    background-image: url("../../imagens/utensilios.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 15vw;
+    height: 15vw;
+    margin-right: 1vw;
+    float: left;
+}
+
+
+.map-section {
     background: linear-gradient(#FEF, #888);
 }
