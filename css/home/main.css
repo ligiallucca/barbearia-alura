@@ -23,3 +23,7 @@
 .map-section {
     background: linear-gradient(#FEF, #888);
 }
+
+.map-section p {
+    padding: 1vw;
+}

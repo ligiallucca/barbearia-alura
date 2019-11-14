@@ -1,5 +1,5 @@
 form {
-    margin: 5vw 0;
+    margin: 5vw;
 }
 
 form fieldset {
@@ -43,8 +43,13 @@ form label, form legend, p {
     transform: scale(1.2);
 }
 
+p {
+    margin-left: 5vw;
+}
+
 table {
-    margin: 2vw 0 3vw;
+    margin-left: 5vw;
+    padding: 1vw 0 3vw 0;
 }
 
 thead {
